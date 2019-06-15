@@ -1,0 +1,86 @@
+/* Global */
+/* titles  */
+/* font-family: 'Questrial', sans-serif; */
+/* paragraphs */
+
+
+body {
+/* Sizing & Positioning */
+
+/* Stylizing */
+
+/* Child Elements */
+}
+
+.h1, .h2, .h3, .h4 {
+  /* Stylizing */
+  font-family: 'Questrial', sans-serif;
+  font-size: 20px;
+  color: #3d46c6;
+
+
+}
+
+.p {
+  /* Stylizing */
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.about-mei-content {
+  margin-top: 70px;
+}
+
+.card {
+  width: 18rem;
+
+}
+
+.pm-portfolio-img {
+  height: 200px;
+  overflow:hidden;
+  padding: 10px;
+
+}
+
+.hw-img {
+	max-width: 128px;
+}
+
+/* .myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25));
+	background:-moz-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:-webkit-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:-o-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:-ms-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25',GradientType=0);
+	background-color:#ffc477;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477));
+	background:-moz-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+	background:-webkit-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+	background:-o-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+	background:-ms-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477',GradientType=0);
+	background-color:#fb9e25;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+} */
